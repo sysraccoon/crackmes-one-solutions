@@ -1,0 +1,18 @@
+a = 0x7473316e316d6461
+74 73 31 6e 31 6d 64 61
+b = 0x7230746172747331
+72 30 74 61 72 74 73 31
+                       
+                          a
+           b   +---------------------+
++--------------|------+              |
+72 30 74 61 72 74 73 31 6e 31 6d 64 61
+<- big addr              small addr ->
+
+# inverse byte order
+61 64 6d 31 6e 31 73 74 72 61 74 30 72
+
+python one-line transform:
+>>> "".join([chr(int(i, 16)) for i in "61 64 6d 31 6e 31 73 74 72 61 74 30 72".split()])
+
+solution: adm1n1strat0r
