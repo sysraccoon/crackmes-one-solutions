@@ -1,0 +1,8 @@
+#+title: crackmes.one solutions
+
+Solutions for the problems presented on the site [[https://crackmes.one/][crackmes.one]]
+
+* Solved:
+
+- [[https://crackmes.one/crackme/644bd78b33c5d43938912c94][Yekong | Salt and Hash - Linux | 644bd78b33c5d43938912c94]]
+- [[https://crackmes.one/crackme/64c5295f8117d58ab380f9e9][ByteBrew | angry file | 64c5295f8117d58ab380f9e9]]
