@@ -1,0 +1,7 @@
+len(s) == 16 # not include '\n'
+sum(s) == 0x42e
+sum(s[0:3]) == sum(s[8:11])
+sum(s[4:7]) == sum(s[12:15])
+sum(s[0:3]) + 0xb == sum(s[4:7])
+
+result: "CAAANAAACAAANAAA"
