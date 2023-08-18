@@ -7,3 +7,5 @@ Solutions for the problems presented on the site [[https://crackmes.one/][crackm
 - [[https://crackmes.one/crackme/644bd78b33c5d43938912c94][Yekong | Salt and Hash - Linux | 644bd78b33c5d43938912c94]]
 - [[https://crackmes.one/crackme/64c5295f8117d58ab380f9e9][ByteBrew | angry file | 64c5295f8117d58ab380f9e9]]
 - [[https://crackmes.one/crackme/5fa94bb233c5d424269a17b7][LubimPiskoty | Personal Safe | 5fa94bb233c5d424269a17b7 ]]
+- [[https://crackmes.one/crackme/64bf4185fc4ca2e6ca3d0f25][0xdecaf | cracknkeygen | 64bf4185fc4ca2e6ca3d0f25]]
+
